@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+header{
+  background-color: darkgreen;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+li{
+  list-style: none;
+font-size: 1.5rem;
+}
+body {
+  background-image: url(../fruit-flavours-500x500.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 59%;
+}
+form {
+  width: 100%;
+  padding-left: 39rem;
+}
+input{
+  width: 20%;
+}
